@@ -37,7 +37,7 @@ SaveGame.instance.Write();
 SaveGame.instance.Read();
 ```
 
-### Retrieving Colors
+### Retrieving Data
 
 ```csharp
 Color skinTone = SaveGame.instance.SkinTone();
