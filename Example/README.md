@@ -24,10 +24,6 @@ To use this example, follow the instructions below:
 
 Contributions to this example project are welcome! If you find any issues or have suggestions for improvements, feel free to open an issue or submit a pull request.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and distribute the code as permitted by the license.
-
 ## Acknowledgements
 
 This example project was created as a starting point for implementing a Save Game system in Unity. It does not cover all possible scenarios and may need additional customization based on your game's requirements. It is inspired by common save system practices and aims to provide a foundation for further development.
