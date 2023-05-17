@@ -20,20 +20,6 @@ To use the "SaveGame" script in your Unity project, follow these steps:
 
 ## Usage
 
-### Checking Save Slot Existence
-
-```csharp
-string slotStatus = SaveGame.instance.DoesExist("1");
-if (slotStatus == "[OCCUPIED]")
-{
-    // The save slot is occupied.
-}
-else
-{
-    // The save slot is available.
-}
-```
-
 ### Setting Save Name
 
 ```csharp
