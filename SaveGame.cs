@@ -90,7 +90,7 @@ public class SaveGame : MonoBehaviour
 
 
 	IEnumerator TakeScreenShot()
-    {
+    	{
 		List<Canvas> canvases = new List<Canvas>();
 
 		Canvas[] c = FindObjectsOfType<Canvas>();
